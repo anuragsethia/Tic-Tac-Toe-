@@ -14,8 +14,8 @@ int inf = 1e9;
 
 int Player2 = -1;
 int Player1 = 1;
-int board[][3] = { { 1, -1, -1} ,
-	{0, 1, 0} ,
+int board[][3] = { { 0, 0, 0} ,
+	{0, 0, 0} ,
 	{0, 0, 0}
 };
 
